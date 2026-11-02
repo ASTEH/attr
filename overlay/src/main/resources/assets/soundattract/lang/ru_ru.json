@@ -1,0 +1,18 @@
+{
+  "enchantment.soundattract.conceal.desc": "Убирает свечение зачарования, чтобы не увеличивать радиус обнаружения",
+  "enchantment.soundattract.conceal": "Скрыть",
+  "subtitles.soundattract.wooden_floor_creek": "Скрип половиц",
+  "key.soundattract.toggle_awareness_hud": "Включить/выключить HUD осведомлённости",
+  "key.soundattract.configure_awareness_hud": "Настроить HUD осведомлённости",
+  "key.categories.soundattract": "Sound Attract",
+  "screen.soundattract.hud.title": "Настройка HUD осведомлённости",
+  "screen.soundattract.hud.instructions": "Перетащите дугу HUD мышью в удобное место экрана.",
+  "screen.soundattract.hud.scale": "Размер HUD: %s%%",
+  "screen.soundattract.hud.opacity": "Непрозрачность: %s%%",
+  "screen.soundattract.hud.mob_scale": "Размер маркеров мобов: %s%%",
+  "screen.soundattract.hud.visibility": "Видимость",
+  "screen.soundattract.hud.noise": "Окружающий шум",
+  "screen.soundattract.hud.scent": "Запах",
+  "screen.soundattract.hud.windshield": "Защита от ветра",
+  "screen.soundattract.hud.reset_position": "Сбросить позицию"
+}
