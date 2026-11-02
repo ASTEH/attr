@@ -1,0 +1,18 @@
+{
+  "enchantment.soundattract.conceal.desc": "Reduces detection range by mobs.",
+  "enchantment.soundattract.conceal": "Conceal",
+  "subtitles.soundattract.wooden_floor_creek": "Floorboard creaks",
+  "key.soundattract.toggle_awareness_hud": "Toggle awareness HUD",
+  "key.soundattract.configure_awareness_hud": "Configure awareness HUD",
+  "key.categories.soundattract": "Sound Attract",
+  "screen.soundattract.hud.title": "Awareness HUD",
+  "screen.soundattract.hud.instructions": "Drag the HUD arc anywhere on the screen to reposition it.",
+  "screen.soundattract.hud.scale": "HUD size: %s%%",
+  "screen.soundattract.hud.opacity": "HUD opacity: %s%%",
+  "screen.soundattract.hud.mob_scale": "Mob marker size: %s%%",
+  "screen.soundattract.hud.visibility": "Visibility",
+  "screen.soundattract.hud.noise": "Environmental noise",
+  "screen.soundattract.hud.scent": "Scent",
+  "screen.soundattract.hud.windshield": "Wind shield",
+  "screen.soundattract.hud.reset_position": "Reset position"
+}
